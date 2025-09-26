@@ -1,44 +1,39 @@
-# OpenXHealth Major Projects
+# ![OpenXHealth Logo](https://img.shields.io/badge/OpenXHealth-Healthcare_AI-blue) OpenXHealth Major Projects
 
-Welcome to **OpenXHealth Major Projects**! This repository contains advanced AI/ML-based medical imaging detection projects developed to assist in automated diagnosis of various diseases. These models aim to support healthcare professionals by improving diagnostic accuracy and efficiency.
+Welcome to **OpenXHealth Major Projects**, a collection of **AI/ML-powered medical imaging detection projects**. These projects are designed to assist healthcare professionals by providing accurate, automated, and scalable diagnostic tools for a variety of diseases.
 
 ---
 
-## Projects Overview
+## 🧠 Projects
 
 ### 1. Alzheimer Classification
 
-* **Description**: Automated detection and classification of Alzheimer’s disease from brain imaging data.
-* **Recent Update**: Added tuberculosis detector integration.
-* **Last Updated**: Last month
+Automated detection and classification of Alzheimer’s disease from brain imaging data.
+**Latest Update:** Added tuberculosis detector (last month)
 
 ### 2. Brain Tumor Classifier
 
-* **Description**: Classifies brain MRI scans into different tumor types, aiding rapid diagnosis.
-* **Recent Update**: Added tuberculosis detector integration.
-* **Last Updated**: Last month
+Classifies brain MRI scans into tumor types to support rapid diagnosis.
+**Latest Update:** Added tuberculosis detector (last month)
 
 ### 3. Intracranial Haemorrhage Detector
 
-* **Description**: Detects intracranial haemorrhages from CT scans for early intervention.
-* **Recent Update**: Added tuberculosis detector integration.
-* **Last Updated**: Last month
+Detects intracranial haemorrhages from CT scans for early intervention.
+**Latest Update:** Added tuberculosis detector (last month)
 
 ### 4. Pneumonia Detector
 
-* **Description**: Detects pneumonia from chest X-rays to assist in timely treatment.
-* **Recent Update**: Added tuberculosis detector integration.
-* **Last Updated**: Last month
+Detects pneumonia from chest X-rays to aid timely treatment.
+**Latest Update:** Added tuberculosis detector (last month)
 
 ### 5. Tuberculosis Detection
 
-* **Description**: Detects tuberculosis from chest X-rays for early diagnosis and monitoring.
-* **Recent Update**: Added tuberculosis detector integration.
-* **Last Updated**: Last month
+Detects tuberculosis from chest X-rays for early diagnosis and monitoring.
+**Latest Update:** Added tuberculosis detector (last month)
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```
 openxhealth-major_projects/
@@ -53,36 +48,40 @@ openxhealth-major_projects/
 └── README.md
 ```
 
+Each project folder contains **dataset preparation instructions, model training scripts, and evaluation scripts**.
+
 ---
 
-## Getting Started
+## ⚡ Getting Started
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/<your-username>/openxhealth-major_projects.git
    ```
-2. Navigate to the desired project folder.
-3. Follow each project’s individual instructions for dataset preparation, model training, and evaluation.
+2. Navigate to the project folder you want to explore:
+
+   ```bash
+   cd 1_Alzheimer_Classification
+   ```
+3. Follow the instructions inside each project folder for setup, model training, and evaluation.
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-We welcome contributions from the community! Please refer to **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines.
+We welcome contributions! Whether it’s improving model accuracy, adding new detectors, or fixing bugs, your help is appreciated. Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** before submitting a pull request.
 
 ---
 
-## License
+## 📜 License
 
 This repository is licensed under the **MIT License**. See **[LICENSE](LICENSE)** for details.
 
 ---
 
-## Contact
+## 📬 Contact
 
-For any questions or collaborations, please reach out to the OpenXHealth team.
+For collaborations, questions, or feedback, feel free to reach out to the OpenXHealth team.
 
 ---
-
-Do you want me to do that?
